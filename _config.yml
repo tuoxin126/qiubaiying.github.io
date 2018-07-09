@@ -1,8 +1,8 @@
 # Site settings
 title: Tuo Blog
 SEOTitle: spearh的博客 | Tuo Blog
-# head image
-#header-img: img/post-bg-desk.jpg
+
+header-img: img/post-bg-desk.jpg
 email: tuoxin126@sina.com
 description: "努力成为一个合格的程序猿。"
 keyword: "BY, BY Blog, spearh的博客, tuoxin126, 拓星, iOS, Apple, iPhone"
@@ -13,7 +13,8 @@ github_repo: "https://github.com/tuoxin126/tuoxin126.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
