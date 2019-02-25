@@ -1,4 +1,3 @@
-package com.kafka.test;
 
 import org.apache.kafka.common.PartitionInfo;
 import java.util.List;
